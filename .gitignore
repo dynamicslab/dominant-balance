@@ -1,0 +1,6 @@
+data/burst_data.mat
+data/cyl/*
+!data/cyl/nek_case
+data/nls_nondim.mat
+data/gom.mat
+data/Transition_BL_Time_Averaged_Profiles.h5
