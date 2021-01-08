@@ -28,8 +28,13 @@ Surface currents in the Gulf of Mexico.  Data was downloaded from the [HYCOM](ht
 
 Generalized Hodgkin-Huxley model of an intrinsically bursting neuron.  Again, MATLAB scripts implementing the full model are in the data folder.
 
+### 7. Rotating detonation engine analogue
+
+Modified Majda-Burgers model of 1D combustion in a rotating detonation engine
+
 __Dependencies:__
 
 * `scikit-learn`: all machine learning methods are implemented as off-the-shelf models
 * `pymech`: python [package](https://github.com/jcanton/pymech) helpful for reading/writing Nek5000 data files (only needed for cylinder example)
+* `pyclaw`: python interface to the [Clawpack](https://www.clawpack.org/) finite volume solver (only needed to generate data for the RDE model)
 * Standard libraries:`seaborn`, `scipy`, `numpy`, `matplotlib`
