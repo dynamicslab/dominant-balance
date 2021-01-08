@@ -1,4 +1,4 @@
-https://zenodo.org/badge/238084191.svg
+[![DOI](https://zenodo.org/badge/238084191.svg)](https://zenodo.org/badge/latestdoi/238084191)
 
 # Learning dominant physical processes with data-driven balance models
 
