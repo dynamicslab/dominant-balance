@@ -1,3 +1,5 @@
+https://zenodo.org/badge/238084191.svg
+
 # Learning dominant physical processes with data-driven balance models
 
 Code and details for the [manuscript](https://arxiv.org/abs/2001.10019) on data-driven dominant balance analysis.  The repository should have everything needed to reproduce the results of the paper and get started exploring dominant balance in other systems.
